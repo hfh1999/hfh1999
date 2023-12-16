@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hfh1999
-- 👀 I’m interested in Metal Music and TouHou Project,my favorite program lang is Rust.
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Metal Music,my favorite program lang is Rust.
+- 🌱 I’m currently learning java
+- 👀 I can use little cpp.
 - 📫 How to reach me: contect me by QQ:2350827470
 
 <!---
